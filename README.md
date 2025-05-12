@@ -1,15 +1,8 @@
 # Portfolio
----
-title: "Shalu Kumari Singh | Frontend Developer Portfolio"
-author: Shalu Kumari Singh
-description: Responsive personal portfolio built using HTML, CSS, and JavaScript.
-tags: [portfolio, frontend, developer, html, css, javascript]
-date: 2025-05-12
----
 
 # 🌟 Shalu Kumari Singh – Portfolio Website
 
-Welcome to my personal **Frontend Developer Portfolio**. This website highlights my technical skills, projects, and career experience using clean UI and responsive design.
+Welcome to my personal **Frontend Developer Portfolio**. This website highlights my technical skills,and projects using clean UI and responsive design.
 
 > 💬 "I love creating responsive websites that solve real-world problems through clean and beautiful code."
 
@@ -26,7 +19,7 @@ Welcome to my personal **Frontend Developer Portfolio**. This website highlights
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
+- JavaScript 
 - Typed.js  
 - Particles.js  
 - Font Awesome  
@@ -49,30 +42,16 @@ Welcome to my personal **Frontend Developer Portfolio**. This website highlights
 
 I'm **Shalu Kumari Singh**, a passionate **Frontend Developer** from India. I build responsive websites with a focus on performance, accessibility, and beautiful design.
 
----
-
-## 📂 Project Structure
-
-```bash
-📁 project-folder/
-├── index.html
-├── style.css
-└── README.md
-
-👩‍💻 About Me
-I'm Shalu Kumari Singh, a passionate Frontend Developer from India.
-I specialize in building fast, responsive, and elegant user interfaces using HTML, CSS, JavaScript, and React.
-
 💡 I enjoy turning ideas into real websites that not only work well but also look amazing. My goal is to create impactful web experiences that help users and businesses alike.
-
+---
 📫 Contact Me
-📧 Email: yourname@example.com
+📧 Email: shalusin2003.com
 
 🌐 Portfolio: https://your-netlify-link.netlify.app
 
-🐙 GitHub: @yourusername
+🐙 GitHub: shalu2424
 
-💼 LinkedIn: linkedin.com/in/yourprofile
+💼 LinkedIn: linkedin.com/in/...
 
 --🙌 Thanks for Visiting!
 If you like my work, feel free to ⭐ star the repo and connect with me on GitHub!
