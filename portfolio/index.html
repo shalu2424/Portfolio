@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shalu Kumari Singh | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <!-- Particle JS -->
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
+  <!-- Typed JS -->
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="logo">
+        <img src="./logo.png" alt="Shalu Kumari Singh" />
+      </div>
+      <!-- <div class="logo"><i class="fas fa-code"></i> SKS</div> -->
+    </div>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="#intro">Home</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <div class="nav-right">
+      <button id="darkToggle" class="toggle-btn"><i class="fas fa-moon"></i></button>
+      <div class="hamburger" id="hamburger">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Intro + About Section -->
+  <section class="intro" id="intro">
+    <div id="particles-js"></div>
+    <div class="intro-content-row compact">
+      <div class="intro-image">
+        <img src="./sh.jpg" alt="Shalu Kumari Singh" />
+      </div>
+      <div class="intro-text">
+        <h1>Hi, I'm <span class="highlight">Shalu Kumari Singh</span></h1>
+        <h2><span id="typed"></span></h2>
+        <p class="about-inline">
+          I'm a passionate <strong>Frontend Developer</strong> who enjoys building responsive and elegant websites with HTML, CSS, JavaScript, and React. I love solving real-world problems with imple yet effective designs,I'm always excited to learn something new and take on new challenges
+        </p>
+      </div>
+    </div>
+  </section>
+
+ 
+  <!-- Skills -->
+  <section class="skills-section" id="skills">
+    <h2>Skills</h2>
+    <ul class="skills-list">
+      <li>HTML5</li><li>CSS3</li><li>TailwindCSS</li><li>JavaScript</li><li>ReactJs</li><li>Vite</li>
+      <li>Git & GitHub</li><li>VS Code</li><li>Netlify</li><li>Responsive Design</li><li>Python Programming</li><li>Power BI</li>
+    </ul>
+  </section>
+
+  <!-- Education -->
+  <section class="timeline-section" id="education">
+    <h2>Education</h2>
+    <div class="timeline">
+      <div class="timeline-item"><h3>B.Tech - Computer Science</h3><span>2021 - 2025</span><p><span>Institute of Engineering & Technology, DR .R.M.L.AVADH UNIVERSITY, AYODHYA</span></p><p>Percentage: 71.4%(PRESENT)</p></div>
+       <div class="timeline-item"><h3>12th CBSE</h3><span>2020- 2021</span><p><span>P N NATIONAL PUB SCH SADAR GORAKHPUR UP</span></p><p>Percentage: 81.8%</p></div>
+       <div class="timeline-item"><h3>10th CBSE</h3><span>2018 - 2019</span><p><span>N J MISSION SCH PO KASIA KUSHINAGAR UP</span></p><p>Percentage: 78.4%</p></div>
+ </div>
+  </section>
+
+  <!-- Projects -->
+  <section class="projects-section" id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>My Portfolio</h3>
+      <p>Responsive portfolio built with HTML, CSS, JavaScript & animated effects.</p>
+      <div class="project-buttons">
+        <a href="https://your-netlify-link.netlify.app" target="_blank" class="btn-live">Live</a>
+        <a href="https://github.com/yourusername/portfolio" target="_blank" class="btn-code">Code</a>
+      </div>
+    </div>
+    <div class="project">
+      <h3>TROVANA -A Travel Landing Page</h3>
+      <p>A clean and modern travel responsive website made with HTML, CSS, and JavaScript.</p>
+      <div class="project-buttons">
+        <a href="https://trovanabyshalu.netlify.app" target="_blank" class="btn-live">Live</a>
+        <a href="https://github.com/shalu2424/Trovana.git" target="_blank" class="btn-code">Code</a>
+      </div>
+    </div>
+    <div class="project">
+      <h3>SUSHIMAN -Japanese Food Landing page</h3>
+      <p>Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations..</p>
+      <div class="project-buttons">
+        <a href="https://sushibyshalu.netlify.app" target="_blank" class="btn-live">Live</a>
+        <a href="https://github.com/shalu2424/sushi.git" target="_blank" class="btn-code">Code</a>
+      </div>
+    </div>
+    
+  </section>
+
+<!-- Contact -->
+<section class="contact-section" id="contact">
+  <h2>Contact Me</h2>
+  <p class="contact-subtitle">Want to work together or just say hi? Send me a message 👇</p>
+
+  <form action="https://formspree.io/f/YOUR-FORM-ID" method="POST">
+    <div class="input-group">
+      <input type="text" name="name" placeholder="Your Name" required />
+    </div>
+    <div class="input-group">
+      <input type="email" name="email" placeholder="Your Email" required />
+    </div>
+    <div class="input-group">
+      <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+    </div>
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 All Rights Reserved | <span class="brand">Shalu Kumari Singh</span></p>
+    <div class="socials">
+    
+      <a href="https://github.com/shalu2424"><i class="fab fa-github"></i></a>
+      <a href=""><i class="fab fa-linkedin"></i></a>
+      <a href="https://app.netlify.com/teams/shalu2424/sites"><i class="fas fa-globe"></i></a>
+      <a href="mailto:your-shalusin2003@gmail.com"><i class="fas fa-envelope"></i></a>
+      <a href="https://wa.me/7068666417"><i class="fab fa-whatsapp"></i></a>
+    </div>
+  </footer>
+
+  <!-- JS Scripts -->
+  <script>
+    new Typed("#typed", {
+      strings: [
+        "I'm a Frontend Developer",
+        "I build responsive websites"
+  
+      ],
+      typeSpeed: 45,
+      backSpeed: 20,
+      loop: true,
+    });
+
+    document.getElementById("darkToggle").addEventListener("click", () => {
+      document.body.classList.toggle("light-mode");
+    });
+
+    const hamburger = document.getElementById("hamburger");
+    const navLinks = document.getElementById("nav-links");
+    hamburger.addEventListener("click", () => {
+      navLinks.classList.toggle("active");
+      hamburger.classList.toggle("active");
+    });
+
+    particlesJS("particles-js", {
+      particles: {
+        number: { value: 200 },
+        color: { value: ["#4ea8de", "#ff4c60", "#3deabf", "#c084fc", "#facc15"] },
+        shape: { type: "circle" },
+        opacity: {
+          value: 0.8,
+          random: true,
+          anim: { enable: true, speed: 10, opacity_min: 0.3, sync: false },
+        },
+        size: { value: 3 },
+        line_linked: {
+          enable: true,
+          distance: 130,
+          color: "#ffffff",
+          opacity: 0.4,
+          width: 1,
+        },
+        move: { enable: true, speed: 6 },
+      },
+      interactivity: {
+        events: {
+          onhover: { enable: true, mode: "grab" },
+          onclick: { enable: true, mode: "repulse" },
+          resize: true,
+        },
+        modes: {
+          grab: { distance: 200, line_linked: { opacity: 0.4 } },
+          repulse: { distance: 100, duration: 0.4 },
+        },
+      },
+      retina_detect: true,
+    });
+  </script>
+</body>
+</html>
