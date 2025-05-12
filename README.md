@@ -11,7 +11,7 @@ Welcome to my personal **Frontend Developer Portfolio**. This website highlights
 ## 🔗 Live Demo
 
 - 🌐 [Live Site](https://your-netlify-link.netlify.app)  
-- 🗂 [GitHub Repo](https://github.com/yourusername/portfolio)
+- 🗂 [GitHub Repo](https://github.com/shalu2424/Portfolio)
 
 ---
 
