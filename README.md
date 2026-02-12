@@ -10,7 +10,7 @@ Welcome to my personal **Frontend Developer Portfolio**. This website highlights
 
 ## 🔗 Live Demo
 
-- 🌐 [Live Site](https://your-netlify-link.netlify.app)  
+- 🌐 [Live Site](https://portfoliobyshalu.netlify.app/)  
 - 🗂 [GitHub Repo](https://github.com/shalu2424/Portfolio)
 
 ---
@@ -47,7 +47,7 @@ I'm **Shalu Kumari Singh**, a passionate **Frontend Developer** from India. I bu
 📫 Contact Me
 📧 Email: shalusin2003.com
 
-🌐 Portfolio: https://your-netlify-link.netlify.app
+🌐 Portfolio: https://portfoliobyshalu.netlify.app/
 
 🐙 GitHub: shalu2424
 
