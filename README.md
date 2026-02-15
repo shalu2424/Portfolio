@@ -2,9 +2,11 @@
 
 # 🌟 Shalu Kumari Singh – Portfolio Website
 
-Welcome to my personal **Frontend Developer Portfolio**. This website highlights my technical skills,and projects using clean UI and responsive design.
+I'm Shalu Kumari Singh, an aspiring Java Developer from India with a strong foundation in Core Java, OOP, and SQL.
 
-> 💬 "I love creating responsive websites that solve real-world problems through clean and beautiful code."
+I build logical backend solutions and responsive web interfaces with a focus on performance, clean structure, and user experience.
+
+💡 My goal is to grow as a Software Engineer by continuously learning and building impactful applications.
 
 ---
 
